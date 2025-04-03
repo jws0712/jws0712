@@ -3,9 +3,8 @@
 ![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:4682B4&height=200&section=header&text=GitHub%20Profile&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&animation=fadeIn&font=Raleway)
 
 ## 🚀 About Me
-- 🎮 Indie Game Developer
-- 💻 Passionate about Unity & Multiplayer Networking
-- 🌱 Currently working on a dark fantasy roguelike game
+- 🎮 Game Developer
+- 💻 Passionate about Unity
 
 ## ⚡ Technologies & Tools
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)

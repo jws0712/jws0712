@@ -1,16 +1,11 @@
 # 👋 Welcome to My GitHub Profile!
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:008000&height=200&section=header&text=My%20GitHub%20Profile&fontSize=40&animation=fadeIn)
+![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,100:8B5A2B&height=200&section=header&text=My%20GitHub%20Profile&fontSize=40&animation=fadeIn)
 
 ## 🚀 About Me
 - 🎮 Indie Game Developer
 - 💻 Passionate about Unity & Multiplayer Networking
 - 🌱 Currently working on a dark fantasy roguelike game
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=green-nur)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=green-nur&exclude_repo=repo1,repo2)
 
 ## ⚡ Technologies & Tools
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)

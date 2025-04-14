@@ -13,10 +13,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Fork](https://img.shields.io/badge/Fork-8B5A2B?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YourYouTubeChannel)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/YourNotionPage)
-
 ## 📁 레포지토리
 
 현재 공개된 레포지토리는 제한되어 있습니다. 이는 다음과 같은 이유로 인한 조치입니다:
